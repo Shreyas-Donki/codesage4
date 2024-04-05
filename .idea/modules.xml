@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GPTInterviewer.iml" filepath="$PROJECT_DIR$/.idea/GPTInterviewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeSage.iml" filepath="$PROJECT_DIR$/.idea/GPTInterviewer.iml" />
     </modules>
   </component>
 </project>
