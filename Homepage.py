@@ -12,7 +12,7 @@ lan = st.selectbox("#### Language", ["English", "Hindi","Kannada"])
 if lan == "English":
     home_title = "CodeSage"
     home_introduction = "Welcome to Code Sage, Connect, Collaborate, and Cultivate Your Tech Network  |  Artificial General Intelligence powered Next-Gen suite of automated hiring solutions"
-    with st.sidebar:"
+   
     with st.sidebar:
         st.markdown('Code Sage - V1.0.1')
         st.markdown(""" 
