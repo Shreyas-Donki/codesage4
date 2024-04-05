@@ -10,7 +10,7 @@ st.set_page_config(page_title = "CodeSage", layout = "centered",page_icon=im)
 lan = st.selectbox("#### Language", ["English", "Hindi","Kannada"])
 
 if lan == "English":
-    home_title = "CodeSage"
+    home_title = "welcome to CodeSage - CodeSage has the potential to revolutionize how tech professionals are assessed and hired, while also providing a unique platform for continuous professional development."
     home_introduction = "Welcome to Code Sage, Connect, Collaborate, and Cultivate Your Tech Network  |  Artificial General Intelligence powered Next-Gen suite of automated hiring solutions"
    
     with st.sidebar:
